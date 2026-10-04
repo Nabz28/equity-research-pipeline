@@ -1,0 +1,8 @@
+node_modules/
+out/
+*.pptx
+*.pdf
+*.png
+bars_*.json
+*.env
+.DS_Store

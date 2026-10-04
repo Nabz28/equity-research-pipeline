@@ -1,0 +1,8 @@
+{
+  "name": "equity-research-deck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "12 slide single stock deck generator",
+  "scripts": { "example": "node deck_build.js example_data.js" },
+  "dependencies": { "pptxgenjs": "^3.12.0" }
+}
